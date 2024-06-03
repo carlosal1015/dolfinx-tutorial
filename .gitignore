@@ -10,3 +10,5 @@ _build
 *.pvtu
 *.msh
 *.bp
+*.jupyter_ystore.db
+*.gif
